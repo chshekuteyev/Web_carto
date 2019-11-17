@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "name": "ino",
+    "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {"id": 1, "title": "Санкт-Петербург"},
+            "geometry": {"type": "Point", "coordinates": [59.918614, 30.331829]}
+        },
+        {
+            "type": "Feature",
+            "properties": {"id": 2, "title": "Выборг"},
+            "geometry": {"type": "Point", "coordinates": [60.710236, 28.741046]}
+        }, {
+            "type": "Feature",
+            "properties": {"id": 3, "title": "Великий Новогород"},
+            "geometry": {"type": "Point", "coordinates": [58.549922, 31.279422]}
+        },
+    ]
+}
