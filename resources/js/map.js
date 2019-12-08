@@ -53,7 +53,7 @@ function clearMap() {
 }
 
 function setMapLayer(chosenMap) {
-    if (chosenMap === 'Kazan') {
+    if (chosenMap === 'Russian Federation') {
         layer = L.tileLayer(apiLink);
     } else {
         layer = L.esri.basemapLayer(chosenMap);
