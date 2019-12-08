@@ -6,16 +6,16 @@
         {
             "type": "Feature",
             "properties": {"id": 1, "title": "Санкт-Петербург"},
-            "geometry": {"type": "Point", "coordinates": [59.918614, 30.331829]}
+            "geometry": {"type": "Point", "coordinates": [30.331829, 59.918614]}
         },
         {
             "type": "Feature",
             "properties": {"id": 2, "title": "Великий Новгород"},
-            "geometry": {"type": "Point", "coordinates": [58.549922, 31.279422]}
+            "geometry": {"type": "Point", "coordinates": [31.279422, 58.549922]}
         }, {
             "type": "Feature",
             "properties": {"id": 3, "title": "Выборг"},
-            "geometry": {"type": "Point", "coordinates": [60.710236, 28.741046]}
+            "geometry": {"type": "Point", "coordinates": [28.741046, 60.710236]}
         }
     ]
 }
